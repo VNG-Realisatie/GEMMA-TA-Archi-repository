@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Autorisatie"
+    id="id-44f4ffde5cce4504a5a9d8dfa7dde67f"
+    documentation="Het bepalen van toegangsrechten van geauthenticeerde entiteiten."/>

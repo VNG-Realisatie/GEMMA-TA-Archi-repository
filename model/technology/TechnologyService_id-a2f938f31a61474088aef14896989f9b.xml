@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Actuele dataopslag"
+    id="id-a2f938f31a61474088aef14896989f9b"
+    documentation="Het opslaan van actuele data uit meerdere bronnen in 1 opslagvoorziening."/>

@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Load Balancing"
+    id="id-46a86347f97b47b1b83d5f16e9da0077"
+    documentation="Het verdelen van belasting over meerdere servers om de belasting te optimaliseren."/>

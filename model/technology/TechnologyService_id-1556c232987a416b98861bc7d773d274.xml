@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bestandsopslag"
+    id="id-1556c232987a416b98861bc7d773d274"
+    documentation="Het opslaan van bestanden via opslagsystemen zoals Network Attached Storage of Storage Area Network."/>

@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Authenticatie"
+    id="id-de8d16c07bbb401bba312698bf5696d7"
+    documentation="Het verifiëren van identiteiten van gebruikers of andere entiteiten."/>
