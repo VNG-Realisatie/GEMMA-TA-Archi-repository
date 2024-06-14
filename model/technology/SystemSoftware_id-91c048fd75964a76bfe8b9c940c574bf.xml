@@ -1,4 +1,8 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Policy editor, Rules Engine"
-    id="id-91c048fd75964a76bfe8b9c940c574bf"/>
+    id="id-91c048fd75964a76bfe8b9c940c574bf">
+  <properties
+      key="Object ID"
+      value="0ea20f42-5647-47c1-9cd9-6f676577e9ec"/>
+</archimate:SystemSoftware>

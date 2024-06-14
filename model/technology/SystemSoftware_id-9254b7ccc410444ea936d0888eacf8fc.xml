@@ -1,4 +1,8 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="NoSQL DBMS"
-    id="id-9254b7ccc410444ea936d0888eacf8fc"/>
+    id="id-9254b7ccc410444ea936d0888eacf8fc">
+  <properties
+      key="Object ID"
+      value="1639be86-7ba8-4cea-ad00-219fdd1a4f7a"/>
+</archimate:SystemSoftware>

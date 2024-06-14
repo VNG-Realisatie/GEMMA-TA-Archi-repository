@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Systeembesturing"
     id="id-121e2e5fd0d64460983b2c27f483567c"
-    documentation="Het aansturen van computerhardware voor het kunnen uitvoeren van programma’s"/>
+    documentation="Het aansturen van computerhardware voor het kunnen uitvoeren van programma’s">
+  <properties
+      key="Object ID"
+      value="5cf2bbfd-e25b-47c0-a13c-8f78fb57c391"/>
+</archimate:TechnologyService>

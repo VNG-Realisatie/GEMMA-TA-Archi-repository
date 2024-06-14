@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inbraakdetectie en -preventie"
     id="id-6fa3027be177484ca830958af1a7b525"
-    documentation="Het detecteren en voorkomen van verdachte activiteiten zoals inbraken in het netwerk."/>
+    documentation="Het detecteren en voorkomen van verdachte activiteiten zoals inbraken in het netwerk.">
+  <properties
+      key="Object ID"
+      value="a550f148-480e-452e-b4cd-3b40c58c5c98"/>
+</archimate:TechnologyService>

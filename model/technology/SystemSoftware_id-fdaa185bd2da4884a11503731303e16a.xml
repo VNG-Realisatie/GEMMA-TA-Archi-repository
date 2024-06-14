@@ -1,4 +1,8 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="System Software"
-    id="id-fdaa185bd2da4884a11503731303e16a"/>
+    id="id-fdaa185bd2da4884a11503731303e16a">
+  <properties
+      key="Object ID"
+      value="b840237f-38a4-46fe-9620-99f4c0291f1e"/>
+</archimate:SystemSoftware>

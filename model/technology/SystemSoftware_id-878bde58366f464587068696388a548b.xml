@@ -1,4 +1,8 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="FTP-server,"
-    id="id-878bde58366f464587068696388a548b"/>
+    id="id-878bde58366f464587068696388a548b">
+  <properties
+      key="Object ID"
+      value="1e9106d3-d086-49c9-af40-4d844af1ea49"/>
+</archimate:SystemSoftware>

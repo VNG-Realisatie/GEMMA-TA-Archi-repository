@@ -1,4 +1,8 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Toegang beheer system"
-    id="id-1b8ae76990e949d79b4d48b10aa01dc2"/>
+    id="id-1b8ae76990e949d79b4d48b10aa01dc2">
+  <properties
+      key="Object ID"
+      value="19234364-aa65-48c8-8179-57c6f34eabe8"/>
+</archimate:SystemSoftware>

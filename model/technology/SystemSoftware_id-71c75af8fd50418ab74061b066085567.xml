@@ -1,4 +1,8 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Load balancer"
-    id="id-71c75af8fd50418ab74061b066085567"/>
+    id="id-71c75af8fd50418ab74061b066085567">
+  <properties
+      key="Object ID"
+      value="b5d8e3f0-8080-4c7e-9abe-6cc6dc33aa70"/>
+</archimate:SystemSoftware>

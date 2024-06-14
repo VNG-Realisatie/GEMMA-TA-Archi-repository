@@ -1,4 +1,8 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Blob opslag systeem"
-    id="id-6b2f87897f5f49bdb43a863267d06d5f"/>
+    id="id-6b2f87897f5f49bdb43a863267d06d5f">
+  <properties
+      key="Object ID"
+      value="62eed72c-863f-4b52-87d5-ba6500c07f5e"/>
+</archimate:SystemSoftware>

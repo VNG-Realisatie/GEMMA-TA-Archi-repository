@@ -1,4 +1,8 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Firewall"
-    id="id-2fa057bbe2804c64b9e43a068032800e"/>
+    id="id-2fa057bbe2804c64b9e43a068032800e">
+  <properties
+      key="Object ID"
+      value="c93442cf-7e66-4619-81a4-ba3c959b0d1e"/>
+</archimate:SystemSoftware>

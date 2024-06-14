@@ -1,4 +1,8 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="VPN systeem"
-    id="id-70309ee5a2b045ed972530426253fbd7"/>
+    id="id-70309ee5a2b045ed972530426253fbd7">
+  <properties
+      key="Object ID"
+      value="28ed23b4-2905-40bc-8b50-678a6455c486"/>
+</archimate:SystemSoftware>

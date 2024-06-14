@@ -1,4 +1,8 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Container management systeem"
-    id="id-54d14e1d659947149adc221204d34eb3"/>
+    id="id-54d14e1d659947149adc221204d34eb3">
+  <properties
+      key="Object ID"
+      value="ce1431e9-8206-4593-9267-52a611ea8264"/>
+</archimate:SystemSoftware>

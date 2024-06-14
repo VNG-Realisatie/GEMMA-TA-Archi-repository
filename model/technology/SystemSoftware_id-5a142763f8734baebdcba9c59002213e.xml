@@ -1,4 +1,8 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Policy Decision Point"
-    id="id-5a142763f8734baebdcba9c59002213e"/>
+    id="id-5a142763f8734baebdcba9c59002213e">
+  <properties
+      key="Object ID"
+      value="d7d448c7-c4bd-4e38-a3cd-bad7b51ea173"/>
+</archimate:SystemSoftware>

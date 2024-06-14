@@ -1,4 +1,8 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Operational datastore"
-    id="id-31a5fe6335304a89bad341b78d615322"/>
+    id="id-31a5fe6335304a89bad341b78d615322">
+  <properties
+      key="Object ID"
+      value="e5803d55-b88c-4e02-8dd6-5bdd6a829426"/>
+</archimate:SystemSoftware>

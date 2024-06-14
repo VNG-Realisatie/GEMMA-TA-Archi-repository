@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gegevensverzameling en integratie"
     id="id-bf2e97f363af4285bca188a7a350234b"
-    documentation="het extraheren, transformeren en laden van gegevens in bulk ondersteunt."/>
+    documentation="het extraheren, transformeren en laden van gegevens in bulk ondersteunt.">
+  <properties
+      key="Object ID"
+      value="9359eb8a-1cab-4982-92ba-107c4e54f8fb"/>
+</archimate:TechnologyService>

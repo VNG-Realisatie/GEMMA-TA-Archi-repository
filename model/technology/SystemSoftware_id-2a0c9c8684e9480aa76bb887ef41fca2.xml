@@ -1,4 +1,8 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="LAN, WAN, VPN"
-    id="id-2a0c9c8684e9480aa76bb887ef41fca2"/>
+    id="id-2a0c9c8684e9480aa76bb887ef41fca2">
+  <properties
+      key="Object ID"
+      value="7136f068-7df9-4e2f-a0be-0457aa3d3a6c"/>
+</archimate:SystemSoftware>

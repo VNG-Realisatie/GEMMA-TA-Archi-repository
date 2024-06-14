@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verwerking services"
-    id="id-b7782db0e3954d16ada15ecc1d5f14a3"/>
+    id="id-b7782db0e3954d16ada15ecc1d5f14a3">
+  <properties
+      key="Object ID"
+      value="120f2bf1-d16a-4433-845f-01e0d733278f"/>
+</archimate:Grouping>

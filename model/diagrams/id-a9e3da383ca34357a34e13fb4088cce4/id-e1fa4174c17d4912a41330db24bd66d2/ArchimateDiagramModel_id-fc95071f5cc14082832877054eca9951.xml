@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Infrastructurele applicatieservices (eerste aanzet)"
+    name="GEMMA import Infrastructurele applicatieservices"
     id="id-fc95071f5cc14082832877054eca9951">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -654,4 +654,10 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-b4bec5c5507f439da601cb3ad1ade0cb.xml#id-b4bec5c5507f439da601cb3ad1ade0cb"/>
   </children>
+  <properties
+      key="Publiceren"
+      value="GEMMA Online en redactie"/>
+  <properties
+      key="Object ID"
+      value="d75a0f3c-42f9-48ea-9780-8bce9316d599"/>
 </archimate:ArchimateDiagramModel>

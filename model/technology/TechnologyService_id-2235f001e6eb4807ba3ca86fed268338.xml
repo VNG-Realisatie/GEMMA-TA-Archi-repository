@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Relationele databaseopslag"
     id="id-2235f001e6eb4807ba3ca86fed268338"
-    documentation="Het opslaan en beheren van gestructureerde gegevens via relationele."/>
+    documentation="Het opslaan en beheren van gestructureerde gegevens via relationele.">
+  <properties
+      key="Object ID"
+      value="836637b1-29e7-422a-a00b-7de01b9cdd2f"/>
+</archimate:TechnologyService>

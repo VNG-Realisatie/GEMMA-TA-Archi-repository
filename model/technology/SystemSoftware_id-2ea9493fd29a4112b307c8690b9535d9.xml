@@ -1,4 +1,8 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Message broker, Message Queue system, Enterprise Service Bus"
-    id="id-2ea9493fd29a4112b307c8690b9535d9"/>
+    id="id-2ea9493fd29a4112b307c8690b9535d9">
+  <properties
+      key="Object ID"
+      value="9afc842a-cc21-4f19-bbcb-523d552a530c"/>
+</archimate:SystemSoftware>
