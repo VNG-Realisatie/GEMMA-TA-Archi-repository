@@ -1,8 +1,8 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Regelbeheer"
+    name="Regeluitvoering"
     id="id-c8d5ce09988f4d5b9199015a41a38dd3"
-    documentation="Het maken en beheren van regels voor het gebruik van IT-componenten.">
+    documentation="Het beheren en (laten) uitvoeren van regels voor het gebruik van data en IT-bronnen.&#xD;&#xA;">
   <properties
       key="Object ID"
       value="914cd1b4-cbbc-4b5a-a483-633f0e115fc9"/>
