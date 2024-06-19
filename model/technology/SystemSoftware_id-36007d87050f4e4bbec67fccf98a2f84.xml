@@ -1,8 +1,15 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Besturingssysteem"
-    id="id-36007d87050f4e4bbec67fccf98a2f84">
+    id="id-36007d87050f4e4bbec67fccf98a2f84"
+    documentation="Een besturingssysteem is een programma dat na het opstarten van een computer in het geheugen geladen wordt en de hardware aanstuurt. Het fungeert als medium tussen de hardware en de computergebruiker, met als opzet dat de gebruiker programma's op een gemakkelijke en efficiënte manier kan uitvoeren.">
   <properties
       key="Object ID"
       value="81cd01a8-d1ad-43a5-a101-b4a1b16a8b18"/>
+  <properties
+      key="Toelichting"
+      value="Veelvoorkomende besturingssystemen zijn Unix, Microsoft Windows, Apple macOS, Linux, Apple iOS en Android"/>
+  <properties
+      key="Bron"
+      value="Wikipedia"/>
 </archimate:SystemSoftware>
