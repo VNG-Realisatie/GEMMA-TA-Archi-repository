@@ -1,0 +1,9 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Backup en herstel"
+    id="id-6bd8443b236f4a3abe918b886fe9950d"
+    documentation="Het maken van backup’s van gegevens en het herstellen van IT-diensten na een storing of ramp.">
+  <properties
+      key="Object ID"
+      value="b936f988-ea3a-4cf8-a373-4a07b0c9d1b6"/>
+</archimate:TechnologyService>

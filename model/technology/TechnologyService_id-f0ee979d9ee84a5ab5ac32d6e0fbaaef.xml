@@ -1,9 +1,0 @@
-<archimate:TechnologyService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Regelhandhaving"
-    id="id-f0ee979d9ee84a5ab5ac32d6e0fbaaef"
-    documentation="Het handhaven van regels voor toegang tot bronnen.">
-  <properties
-      key="Object ID"
-      value="38a8155e-927e-4024-822c-8881efcf8b16"/>
-</archimate:TechnologyService>

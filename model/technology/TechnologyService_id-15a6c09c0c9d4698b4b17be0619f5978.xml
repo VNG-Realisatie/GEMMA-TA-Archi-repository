@@ -1,0 +1,9 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technische archivering"
+    id="id-15a6c09c0c9d4698b4b17be0619f5978"
+    documentation="Het opslaan van gegevens een medium waarop ze niet meer wijzigbaar zijn.">
+  <properties
+      key="Object ID"
+      value="b936f988-ea3a-4cf8-a373-4a07b0c9d1b6"/>
+</archimate:TechnologyService>
