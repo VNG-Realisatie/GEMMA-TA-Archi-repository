@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Authenticatie"
     id="id-de8d16c07bbb401bba312698bf5696d7"
-    documentation="Het verifiëren van identiteiten van gebruikers of andere entiteiten.">
+    documentation="Technologieservice voor het verifiëren van de identiteit van een gebruiker of systeem om toegang tot middelen te verlenen.">
   <properties
       key="Object ID"
       value="a8d101d9-d200-42ec-9294-1a66933ace1b"/>

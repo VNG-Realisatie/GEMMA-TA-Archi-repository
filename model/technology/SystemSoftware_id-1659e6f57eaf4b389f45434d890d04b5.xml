@@ -1,0 +1,9 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rules engine"
+    id="id-1659e6f57eaf4b389f45434d890d04b5"
+    documentation="Technologiecomponent voor het uitvoerem en handhaven van regels. Bijvoorbeeld om binnen applicaties besluitvorming en procesautomatisering te ondersteunen.">
+  <properties
+      key="Object ID"
+      value="0ea20f42-5647-47c1-9cd9-6f676577e9ec"/>
+</archimate:SystemSoftware>

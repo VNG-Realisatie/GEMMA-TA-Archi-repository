@@ -1,7 +1,8 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="WORM systeem"
-    id="id-a1eac7e2a297487fb83b8f29b4c58779">
+    name="WORM component"
+    id="id-a1eac7e2a297487fb83b8f29b4c58779"
+    documentation="Technologiecomponent voor het één keer opslaan en meerdere keren lezen van gegevens zonder ze te wijzigen. Bijvoorbeeld voor archivering en compliance.">
   <properties
       key="Object ID"
       value="28ed23b4-2905-40bc-8b50-678a6455c486"/>

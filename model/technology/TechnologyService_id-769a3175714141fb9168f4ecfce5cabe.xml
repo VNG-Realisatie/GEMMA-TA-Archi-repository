@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Berichtuitwisseling"
     id="id-769a3175714141fb9168f4ecfce5cabe"
-    documentation="Het uitwisselen van berichten tussen IT-componenten.">
+    documentation="Technologieservice voor het verzenden en ontvangen van berichten tussen systemen of applicaties.">
   <properties
       key="Object ID"
       value="a8fe6619-ce09-4546-a296-d562c532f916"/>

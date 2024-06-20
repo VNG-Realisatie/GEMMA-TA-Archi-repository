@@ -1,7 +1,8 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Backup- en herstel systeem"
-    id="id-129c6c7ee07942ecb245791c856af814">
+    name="Backup- en herstel component"
+    id="id-129c6c7ee07942ecb245791c856af814"
+    documentation="Technologiecomponent voor het maken van periodieke back-ups van gegevens en systemen maakt en het bieden van herstelopties bij gegevensverlies of systeemuitval.">
   <properties
       key="Object ID"
       value="28ed23b4-2905-40bc-8b50-678a6455c486"/>

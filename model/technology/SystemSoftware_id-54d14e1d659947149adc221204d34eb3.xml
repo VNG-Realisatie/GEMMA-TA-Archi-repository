@@ -1,7 +1,8 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Container Platform"
-    id="id-54d14e1d659947149adc221204d34eb3">
+    id="id-54d14e1d659947149adc221204d34eb3"
+    documentation="Technologiecomponent voor het beheren, implementeren en schalen van applicatiecontainers die applicaties en hun afhankelijkheden in een geïsoleerde omgeving uitvoeren.">
   <properties
       key="Object ID"
       value="ce1431e9-8206-4593-9267-52a611ea8264"/>
