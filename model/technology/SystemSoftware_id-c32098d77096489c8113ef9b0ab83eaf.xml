@@ -1,7 +1,8 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Bestandsopslag systeem"
-    id="id-c32098d77096489c8113ef9b0ab83eaf">
+    name="Bestandsopslag component"
+    id="id-c32098d77096489c8113ef9b0ab83eaf"
+    documentation="Technologiecomponent voor het opslaan en beheren van bestanden op een schijf of in een netwerk.">
   <properties
       key="Object ID"
       value="3dcfe92c-3337-4730-91ff-d51612e76363"/>

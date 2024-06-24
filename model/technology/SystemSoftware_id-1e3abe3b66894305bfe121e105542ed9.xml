@@ -1,0 +1,9 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Policy decision point"
+    id="id-1e3abe3b66894305bfe121e105542ed9"
+    documentation="Technologiecomponent voor het beslissen over toegangsverzoeken op basis van vastgestelde policy's.">
+  <properties
+      key="Object ID"
+      value="0ea20f42-5647-47c1-9cd9-6f676577e9ec"/>
+</archimate:SystemSoftware>

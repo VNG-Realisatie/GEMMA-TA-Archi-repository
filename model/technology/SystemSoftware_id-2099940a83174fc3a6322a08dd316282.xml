@@ -1,7 +1,8 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DNS-server"
-    id="id-2099940a83174fc3a6322a08dd316282">
+    name="DNS component"
+    id="id-2099940a83174fc3a6322a08dd316282"
+    documentation="Technologiecomponent voor het omzetten van domeinnamen in IP-adressen.">
   <properties
       key="Object ID"
       value="d8a08058-e60c-4636-8513-c2a287f09292"/>

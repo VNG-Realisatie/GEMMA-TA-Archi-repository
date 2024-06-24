@@ -1,7 +1,8 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Configuratiebeheersysteem"
-    id="id-5c3651cd9a3d4dcc8fd1d02871c022a8">
+    name="Configuratiebeheer component"
+    id="id-5c3651cd9a3d4dcc8fd1d02871c022a8"
+    documentation="Technologiecomponent voor het configureren van systemen. Bijvoorbeeld gebruikt voor automatisering en consistentie.">
   <properties
       key="Object ID"
       value="28ed23b4-2905-40bc-8b50-678a6455c486"/>

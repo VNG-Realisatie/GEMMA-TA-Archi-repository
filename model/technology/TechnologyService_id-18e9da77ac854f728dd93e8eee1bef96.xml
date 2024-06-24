@@ -1,9 +1,0 @@
-<archimate:TechnologyService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Big data database opslag"
-    id="id-18e9da77ac854f728dd93e8eee1bef96"
-    documentation="Het opslaan en beheren van grote hoeveelheden ongestructureerde data zoals video- of sensorgegevens.">
-  <properties
-      key="Object ID"
-      value="5eb32ec1-5ef5-4250-981a-50b5c4d53047"/>
-</archimate:TechnologyService>

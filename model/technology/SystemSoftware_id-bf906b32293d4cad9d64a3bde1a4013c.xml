@@ -1,7 +1,8 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Logging systeem"
-    id="id-bf906b32293d4cad9d64a3bde1a4013c">
+    name="Technische logging component"
+    id="id-bf906b32293d4cad9d64a3bde1a4013c"
+    documentation="Technologiecomponent voor het registreren van technologie gerelateerde gebeurtenissen. Bijvoorbeeld: de ELK-stack (Elasticsearch, Logstash, Kibana).">
   <properties
       key="Object ID"
       value="28ed23b4-2905-40bc-8b50-678a6455c486"/>
