@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="mapped op"
+    id="id-c3d065f35ad94495ae92717bcf7c3d2a"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-5060f0fc-6198-4936-99d3-1c5a35aae8de.xml#id-5060f0fc-6198-4936-99d3-1c5a35aae8de"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-d4791d65083141ceb14bc92698815c34.xml#id-d4791d65083141ceb14bc92698815c34"/>
+</archimate:AssociationRelationship>

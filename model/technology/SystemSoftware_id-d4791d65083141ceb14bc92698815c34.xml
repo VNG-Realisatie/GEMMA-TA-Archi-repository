@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Message queue"
     id="id-d4791d65083141ceb14bc92698815c34"
-    documentation="Technologiecomponent voor gebruik van wachtijen zodat systemen asynchroon berichten met elkaar kunnen uitwisselen.">
+    documentation="Technologiecomponent voor gebruik van wachtrijen zodat systemen asynchroon berichten met elkaar kunnen uitwisselen.">
   <properties
       key="Object ID"
       value="9afc842a-cc21-4f19-bbcb-523d552a530c"/>
