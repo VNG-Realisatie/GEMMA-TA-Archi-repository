@@ -4,6 +4,9 @@
     name="hoort bij"
     id="id-d4eb2bb90a654aebaf43cb666722e2d4"
     directed="true">
+  <properties
+      key="Object ID"
+      value="fb533bde-4fbd-4748-ad33-aef93a6e7f02"/>
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-0e6a7170-d3c6-48a9-a8f2-1e2e0bdd401e.xml#id-0e6a7170-d3c6-48a9-a8f2-1e2e0bdd401e"/>
