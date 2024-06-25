@@ -1,0 +1,9 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mobile device management component"
+    id="id-215b006dfa2842ebbaf8ba7f805e6cf9"
+    documentation="Technologiecomponent voor het beheren, beveiligen en ondersteunen van mobiele apparaten binnen een organisatie.">
+  <properties
+      key="Object ID"
+      value="eb413377-fec2-4571-b495-b3df286a9640"/>
+</archimate:SystemSoftware>

@@ -1,8 +1,8 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Antivirus en anti-malware"
+    name="Malware preventie en detectie"
     id="id-62408cc7f29042babe523a59cdc36914"
-    documentation="Technologieservice voor het beschermen van systemen tegen virussen, malware en andere schadelijke software.">
+    documentation="Technologieservice voor het beschermen van systemen tegen schadelijke software. Bijvoorbeeld: virussen, wormen, trojans, ransomware, spyware, adware, rootkits.">
   <properties
       key="Object ID"
       value="63f580dd-4d1c-4610-92d7-d420cdf98746"/>

@@ -1,0 +1,9 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data verlies preventie component"
+    id="id-4b4a9e357b8b43f2a27505b08658fb8b"
+    documentation="Technologiecomponent voor het detecteren, voorkomen en verwijderen van schadelijke programma's en virussen om computers en gegevens te beschermen.">
+  <properties
+      key="Object ID"
+      value="933b4cd7-16d9-42fa-8848-54e84b4f5faa"/>
+</archimate:SystemSoftware>
