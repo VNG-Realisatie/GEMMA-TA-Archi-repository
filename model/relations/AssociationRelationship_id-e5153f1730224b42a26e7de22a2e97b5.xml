@@ -1,0 +1,19 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="hoort bij"
+    id="id-e5153f1730224b42a26e7de22a2e97b5"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="3e5f30dc-f06f-40d0-b821-5bb4bb0fd98a"/>
+  <properties
+      key="Semanticsearch"
+      value="hoort bij"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-4b920e72478848fd8591584e6aaf1776.xml#id-4b920e72478848fd8591584e6aaf1776"/>
+  <target
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-6fa3027be177484ca830958af1a7b525.xml#id-6fa3027be177484ca830958af1a7b525"/>
+</archimate:AssociationRelationship>

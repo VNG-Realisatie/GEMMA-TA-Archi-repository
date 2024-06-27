@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inbraakdetectie en -preventie"
+    id="id-6fa3027be177484ca830958af1a7b525"
+    documentation="Technologieservice voor het monitoren van netwerk- of systeemactiviteiten op kwaadaardige activiteiten en proberen deze te detecteren en te voorkomen.">
+  <properties
+      key="Object ID"
+      value="a550f148-480e-452e-b4cd-3b40c58c5c98"/>
+  <properties
+      key="Semanticsearch"
+      value="inbraakdetectie en -preventie"/>
+</archimate:TechnologyService>

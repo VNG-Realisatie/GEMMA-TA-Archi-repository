@@ -1,0 +1,18 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datadistributie component"
+    id="id-b9629bc4fbf843e2982afa08e3e9f018"
+    documentation="Technologiecomponent voor het verspreiden en synchroniseren van gegevens over meerdere systemen.">
+  <properties
+      key="Object ID"
+      value="dfaa5874-620e-4e1d-afdd-dcb16a9068c2"/>
+  <properties
+      key="Semanticsearch"
+      value="datadistributie component"/>
+  <properties
+      key="GEMMA status"
+      value="In ontwikkeling"/>
+  <properties
+      key="GEMMA type"
+      value="Technologiecomponent"/>
+</archimate:SystemSoftware>

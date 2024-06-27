@@ -1,0 +1,18 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anti-virus component"
+    id="id-53db442ccf8040ad814d25ade7edb9d2"
+    documentation="Technologiecomponent voor het detecteren, voorkomen en verwijderen van schadelijke programma's en virussen om computers en gegevens te beschermen.">
+  <properties
+      key="Object ID"
+      value="933b4cd7-16d9-42fa-8848-54e84b4f5faa"/>
+  <properties
+      key="Semanticsearch"
+      value="anti-virus component"/>
+  <properties
+      key="GEMMA status"
+      value="In ontwikkeling"/>
+  <properties
+      key="GEMMA type"
+      value="Technologiecomponent"/>
+</archimate:SystemSoftware>
