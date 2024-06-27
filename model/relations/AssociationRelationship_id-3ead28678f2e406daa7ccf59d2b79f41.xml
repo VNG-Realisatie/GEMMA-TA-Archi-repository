@@ -7,12 +7,9 @@
   <properties
       key="Object ID"
       value="e200cbbd-3865-46cd-8c98-5200a74f1eaf"/>
-  <properties
-      key="Semanticsearch"
-      value="hoort bij"/>
   <source
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-b3ce4031901c4ddeb8ec3e167fc5600e.xml#id-b3ce4031901c4ddeb8ec3e167fc5600e"/>
+      href="ApplicationComponent_id-a8d9d887-7054-49ad-a5bd-ae92f8c530f2.xml#id-a8d9d887-7054-49ad-a5bd-ae92f8c530f2"/>
   <target
       xsi:type="archimate:TechnologyService"
       href="TechnologyService_id-f3b721c7a9b04254896c1522754079c3.xml#id-f3b721c7a9b04254896c1522754079c3"/>
