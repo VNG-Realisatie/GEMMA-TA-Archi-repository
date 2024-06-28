@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Netwerkbeheercomponent"
     id="id-983cd422-096a-4d99-8444-dc76561c9a9d"
-    documentation="Component beheren van netwerkcomponenten en configuraties">
+    documentation="Technologiecomponent voor het beheren van netwerkcomponenten en configuraties">
   <properties
       key="BBN"
       value="BBN 2 en beschikbaarheids- en integriteitsmaatregelen op BBN1"/>

@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anti-DDOS component"
+    id="id-3beb38776b624774a6edc33fd7c79a96"
+    documentation="Technologiecomponent voor het detecteren en blokkeren van (Distributed) Denial-of-Service aanvallen"/>

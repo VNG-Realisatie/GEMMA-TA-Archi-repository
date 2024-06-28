@@ -4,19 +4,6 @@
     name="Technologieservices"
     id="id-1068316bd0164a00b1c77231610c226c">
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-5dd6dcc5d0dc4597b0b5fe4a701fe1de"
-      font="1|Segoe UI Semibold|9.0|0|WINDOWS|1|-12|0|0|0|600|0|0|0|0|3|2|1|34|Segoe UI Semibold"
-      textAlignment="1"
-      content="Naamgeving: &#xD;&#xA;- Groepsnaam (eindigend op 'services')&#xD;&#xA;- Technologieservice (technology service)&quot; begint met &quot;Technologieservice voor &quot;&#xD;&#xA;- Technologiecomponent (system software) begint met &quot;Technologiecomponent voor &quot;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Niet opgenomen omdat het buiten huidige scope van de GEMMA valt:&#xD;&#xA;- Beheer van op eindgebruiker gerichte services (mail, print, telefonie, samenwerking, &#xD;&#xA;- Services voor systeemontwikkeling (0ntwerp, bouw, test, deployment, versiebeheer)&#xD;&#xA;- Cloud services IAAS, PAAS, SAAS => is een geen indeling van type services maar geeft aan hoeveel een cloudprovicer doet en hoeveel de afnermer&#xD;&#xA;- Datawarehousing en Big data verwerking&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;"
-      borderType="1">
-    <bounds
-        x="10"
-        y="1550"
-        width="805"
-        height="206"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-7b37c0244f6d4db2b960b487d20065f3">
     <features
@@ -134,7 +121,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3e5e1c7c0d94445a81e464b524c20a05"
-      targetConnections="id-f7e1ff47403644b3b996cce2cd5a47f7 id-c354cf306f86433e80bf032efe87f798 id-dbee7d661d8d4339b2749ff46ef9541b id-8dd8b69810464e08aefad41bdb2052f8 id-a6fdf13cc0d44221934ddf2b34d70d2f">
+      targetConnections="id-f7e1ff47403644b3b996cce2cd5a47f7 id-8dd8b69810464e08aefad41bdb2052f8 id-c354cf306f86433e80bf032efe87f798">
     <features
         name="deriveElementLineColor"
         value="false"/>
@@ -196,19 +183,6 @@
     <features
         name="deriveElementLineColor"
         value="false"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-a6fdf13cc0d44221934ddf2b34d70d2f"
-        source="id-2ea2eb8cc1b947ff9084ada266f29abb"
-        target="id-3e5e1c7c0d94445a81e464b524c20a05">
-      <bendpoints
-          startX="-225"
-          endX="225"
-          endY="-40"/>
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_id-4c3cd03ba539492ab9ecb2022121fd0b.xml#id-4c3cd03ba539492ab9ecb2022121fd0b"/>
-    </sourceConnections>
     <bounds
         x="911"
         y="1172"
@@ -943,18 +917,6 @@
     <features
         name="deriveElementLineColor"
         value="false"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-dbee7d661d8d4339b2749ff46ef9541b"
-        source="id-d58fa419a82949db8a3d6d0e7203df11"
-        target="id-3e5e1c7c0d94445a81e464b524c20a05">
-      <bendpoints
-          startX="-225"
-          endX="225"/>
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_id-cd985276fe09432e8ccd8fe558690c49.xml#id-cd985276fe09432e8ccd8fe558690c49"/>
-    </sourceConnections>
     <bounds
         x="911"
         y="1212"
@@ -1669,6 +1631,19 @@
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_id-796351a2e0f2400aa1435bbd23ec558a.xml#id-796351a2e0f2400aa1435bbd23ec558a"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-c354cf306f86433e80bf032efe87f798"
+        source="id-5fc05bdd0b7f4fadac1315c1f40d317a"
+        target="id-3e5e1c7c0d94445a81e464b524c20a05">
+      <bendpoints
+          startX="225"
+          startY="19"
+          endX="-225"/>
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-7cd77153f8d442c0be62d10fe8bf4cbd.xml#id-7cd77153f8d442c0be62d10fe8bf4cbd"/>
+    </sourceConnections>
     <bounds
         x="11"
         y="492"
@@ -1899,19 +1874,6 @@
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_id-a204d7f2f55c4ff5963575c456e365c6.xml#id-a204d7f2f55c4ff5963575c456e365c6"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-c354cf306f86433e80bf032efe87f798"
-        source="id-e8e217f66b974be9820e93c73bdcee01"
-        target="id-3e5e1c7c0d94445a81e464b524c20a05">
-      <bendpoints
-          startX="225"
-          startY="19"
-          endX="-225"/>
-      <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_id-7cd77153f8d442c0be62d10fe8bf4cbd.xml#id-7cd77153f8d442c0be62d10fe8bf4cbd"/>
     </sourceConnections>
     <bounds
         x="11"

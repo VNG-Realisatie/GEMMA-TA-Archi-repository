@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="hoort bij"
+    name="is gelijk aan"
     id="id-badcb96188914503a2aef7b99ace319d"
     directed="true">
   <properties
@@ -11,6 +11,6 @@
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-d7ce409e-19c8-4ed8-9764-2ebada7021cc.xml#id-d7ce409e-19c8-4ed8-9764-2ebada7021cc"/>
   <target
-      xsi:type="archimate:TechnologyService"
-      href="TechnologyService_id-6fa3027be177484ca830958af1a7b525.xml#id-6fa3027be177484ca830958af1a7b525"/>
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-3beb38776b624774a6edc33fd7c79a96.xml#id-3beb38776b624774a6edc33fd7c79a96"/>
 </archimate:AssociationRelationship>

@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Serviceregister en -directory"
+    id="id-74d35e23f14145758728a28eb0299224"
+    documentation="Technologiecomponent voor het dynamisch bijhouden van services die beschikbaar zijn en hun locatie (IP-adres en poort). De directory bevat beschrijvingen, documentatie, en metadata."/>
