@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="is gelijk aan"
+    name="was-wordt"
     id="id-a80f323b5eec4acea294f9b2824fc24a"
     directed="true">
   <properties

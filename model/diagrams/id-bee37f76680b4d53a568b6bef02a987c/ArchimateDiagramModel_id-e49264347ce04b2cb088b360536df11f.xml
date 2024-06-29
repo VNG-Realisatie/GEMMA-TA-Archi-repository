@@ -2213,4 +2213,16 @@
   <properties
       key="Object ID"
       value="03b5f1be-48b8-4077-b31c-94552f540d96"/>
+  <properties
+      key="Architectuurlaag"
+      value="Technologie architectuur"/>
+  <properties
+      key="Domein"
+      value="Niet domeingebonden"/>
+  <properties
+      key="Detailniveau"
+      value="Overzicht"/>
+  <properties
+      key="GEMMA thema"
+      value="Geen"/>
 </archimate:ArchimateDiagramModel>

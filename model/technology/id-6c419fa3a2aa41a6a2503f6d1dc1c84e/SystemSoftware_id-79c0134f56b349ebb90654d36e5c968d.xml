@@ -12,4 +12,7 @@
   <properties
       key="Toelichting"
       value="Dit wordt ook Publish-Subscribe genoemd, waarbij berichten door een uitgever (publisher) worden verzonden naar meerdere ontvangers (subscribers) die zich hebben geabonneerd op een bepaald onderwerp of kanaal."/>
+  <properties
+      key="Object ID"
+      value="0cc5a8f6-aca8-482f-97fb-204618e942d2"/>
 </archimate:SystemSoftware>

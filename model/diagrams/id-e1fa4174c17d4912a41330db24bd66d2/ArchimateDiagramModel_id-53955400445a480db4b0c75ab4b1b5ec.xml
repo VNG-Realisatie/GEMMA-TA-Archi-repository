@@ -2359,4 +2359,25 @@
   <properties
       key="Object ID"
       value="921804cb-46bf-47ed-9f57-e146c6edb0cb"/>
+  <properties
+      key="Architectuurlaag"
+      value="Technologie architectuur"/>
+  <properties
+      key="Domein"
+      value="Niet domeingebonden"/>
+  <properties
+      key="Detailniveau"
+      value="Overzicht"/>
+  <properties
+      key="Publiceren"
+      value="GEMMA Online en redactie"/>
+  <properties
+      key="Scope"
+      value="Gemeente"/>
+  <properties
+      key="Viewtype"
+      value="Toelichting"/>
+  <properties
+      key="GEMMA thema"
+      value="Geen"/>
 </archimate:ArchimateDiagramModel>

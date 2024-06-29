@@ -2123,4 +2123,28 @@
   <properties
       key="Object ID"
       value="7a28c87e-145b-4e30-9431-19ff839c7291"/>
+  <properties
+      key="Architectuurlaag"
+      value="Technologie architectuur"/>
+  <properties
+      key="Domein"
+      value="Niet domeingebonden"/>
+  <properties
+      key="Detailniveau"
+      value="Overzicht"/>
+  <properties
+      key="Titel view SWC"
+      value="Technologiecomponentenlandschap"/>
+  <properties
+      key="Publiceren"
+      value="GEMMA Online en redactie"/>
+  <properties
+      key="Scope"
+      value="Gemeente"/>
+  <properties
+      key="Viewtype"
+      value="Basis"/>
+  <properties
+      key="GEMMA thema"
+      value="Geen"/>
 </archimate:ArchimateDiagramModel>

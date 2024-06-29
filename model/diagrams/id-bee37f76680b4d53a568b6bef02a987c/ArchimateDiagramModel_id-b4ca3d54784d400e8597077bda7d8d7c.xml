@@ -3843,4 +3843,16 @@
   <properties
       key="Object ID"
       value="2dd632a3-a992-492a-82e6-f1dabb1ec1d2"/>
+  <properties
+      key="Architectuurlaag"
+      value="Totaal (meerlaags)"/>
+  <properties
+      key="Domein"
+      value="Niet domeingebonden"/>
+  <properties
+      key="Detailniveau"
+      value="Samenhang"/>
+  <properties
+      key="GEMMA thema"
+      value="Geen"/>
 </archimate:ArchimateDiagramModel>
