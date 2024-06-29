@@ -5,5 +5,8 @@
     documentation="Technologieservice voor het identificeren van kwetsbaarheden in software, systemen of netwerken.">
   <properties
       key="Object ID"
-      value="a550f148-480e-452e-b4cd-3b40c58c5c98"/>
+      value="f7a38d5e-19d0-4203-9211-b01a4d261d60"/>
+  <properties
+      key="GEMMA type"
+      value="Technologieservice"/>
 </archimate:TechnologyService>

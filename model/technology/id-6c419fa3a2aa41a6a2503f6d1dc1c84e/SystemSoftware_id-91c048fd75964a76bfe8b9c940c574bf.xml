@@ -1,6 +1,6 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Policy Editor"
+    name="Policy editor"
     id="id-91c048fd75964a76bfe8b9c940c574bf"
     documentation="Technologiecomponent voor het creëren en beheren van beleidsregels voor systeembeveiliging, netwerkbeheer en toegangscontrole.">
   <properties

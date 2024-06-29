@@ -2356,4 +2356,7 @@
         xsi:type="archimate:SystemSoftware"
         href="SystemSoftware_id-1e3abe3b66894305bfe121e105542ed9.xml#id-1e3abe3b66894305bfe121e105542ed9"/>
   </children>
+  <properties
+      key="Object ID"
+      value="921804cb-46bf-47ed-9f57-e146c6edb0cb"/>
 </archimate:ArchimateDiagramModel>

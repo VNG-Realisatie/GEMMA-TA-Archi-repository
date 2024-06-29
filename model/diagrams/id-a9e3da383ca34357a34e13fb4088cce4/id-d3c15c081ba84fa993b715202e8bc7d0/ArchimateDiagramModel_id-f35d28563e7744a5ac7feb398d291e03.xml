@@ -1377,4 +1377,7 @@
   <properties
       key="GEMMA thema"
       value="Geen"/>
+  <properties
+      key="Object ID"
+      value="3b31cc93-55f7-4988-b612-e1a573fc3a12"/>
 </archimate:ArchimateDiagramModel>

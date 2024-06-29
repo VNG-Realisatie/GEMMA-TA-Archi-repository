@@ -4,6 +4,9 @@
     name="is gelijk aan"
     id="id-7128facde8b349bcb79db10418c30a79"
     directed="true">
+  <properties
+      key="Object ID"
+      value="d437018e-730c-495d-a4df-e9aa0af6df1e"/>
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-06321658-50d1-4153-b007-6630ffabcd80.xml#id-06321658-50d1-4153-b007-6630ffabcd80"/>

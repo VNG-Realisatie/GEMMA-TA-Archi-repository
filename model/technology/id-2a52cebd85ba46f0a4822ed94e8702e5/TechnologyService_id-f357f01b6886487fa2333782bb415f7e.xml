@@ -6,4 +6,7 @@
   <properties
       key="Object ID"
       value="2d41b42c-7f60-4370-9c09-4c46f29fe327"/>
+  <properties
+      key="GEMMA type"
+      value="Technologieservice"/>
 </archimate:TechnologyService>

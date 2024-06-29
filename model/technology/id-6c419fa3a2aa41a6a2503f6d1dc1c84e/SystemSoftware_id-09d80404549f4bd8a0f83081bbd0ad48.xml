@@ -2,8 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vulnerability detection component"
     id="id-09d80404549f4bd8a0f83081bbd0ad48"
-    documentation="Technologiecomponent voor het detecteren van kwetsbaarheden in systemen door te wijzen op mogelijke doelwitten die voor hackers interessant kunnen zijn.">
+    documentation="Technologiecomponent voor het detecteren, voorkomen en verwijderen van schadelijke programma's en virussen om computers en gegevens te beschermen.">
   <properties
       key="Object ID"
-      value="933b4cd7-16d9-42fa-8848-54e84b4f5faa"/>
+      value="fb0a9e04-8fd5-4fbc-ba88-b454743f884b"/>
+  <properties
+      key="GEMMA status"
+      value="In ontwikkeling"/>
+  <properties
+      key="GEMMA type"
+      value="Technologiecomponent"/>
 </archimate:SystemSoftware>

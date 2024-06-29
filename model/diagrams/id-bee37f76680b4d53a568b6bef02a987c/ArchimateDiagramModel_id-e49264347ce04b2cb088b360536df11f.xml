@@ -1730,6 +1730,38 @@
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_id-5530a321d39b4653b84004d8c36e8746.xml#id-5530a321d39b4653b84004d8c36e8746"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-fadb8c80adb24b589d51d4dc3afeec9e"
+        source="id-771ade804d984653ae3df95bd43b910a"
+        target="id-f6d56f2f95dc4c0da29222a45acbc055">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-2fa9622d09e44733bde48a7a5cd63b2a.xml#id-2fa9622d09e44733bde48a7a5cd63b2a"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-701e0225a80a40b1b8a028edb439a341"
+        source="id-771ade804d984653ae3df95bd43b910a"
+        target="id-22eeff053dec454ca30e977c6d70eab4">
+      <bendpoints
+          startX="128"
+          startY="634"
+          endX="-20"
+          endY="-170"/>
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-6ff3e1336fb04e77bb1bead190f361f4.xml#id-6ff3e1336fb04e77bb1bead190f361f4"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-1c9b30ad103e4c34a8609a617a7d3af3"
+        source="id-771ade804d984653ae3df95bd43b910a"
+        target="id-f75b2e116c3c4231939f23117f71f715">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-4e024589f6ba45b18b7fc7a5ea3628a1.xml#id-4e024589f6ba45b18b7fc7a5ea3628a1"/>
+    </sourceConnections>
     <bounds
         x="22"
         y="216"
@@ -1936,6 +1968,38 @@
           xsi:type="archimate:TechnologyService"
           href="TechnologyService_id-5fdfdd25779d4e008f5f59e7c0292949.xml#id-5fdfdd25779d4e008f5f59e7c0292949"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-f6d56f2f95dc4c0da29222a45acbc055"
+        targetConnections="id-fadb8c80adb24b589d51d4dc3afeec9e">
+      <features
+          name="deriveElementLineColor"
+          value="false"/>
+      <bounds
+          x="270"
+          y="868"
+          width="141"
+          height="61"/>
+      <archimateElement
+          xsi:type="archimate:TechnologyService"
+          href="TechnologyService_id-62408cc7f29042babe523a59cdc36914.xml#id-62408cc7f29042babe523a59cdc36914"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-f75b2e116c3c4231939f23117f71f715"
+        targetConnections="id-1c9b30ad103e4c34a8609a617a7d3af3">
+      <features
+          name="deriveElementLineColor"
+          value="false"/>
+      <bounds
+          x="570"
+          y="868"
+          width="141"
+          height="61"/>
+      <archimateElement
+          xsi:type="archimate:TechnologyService"
+          href="TechnologyService_id-0d5f33c2ef434b988ac6f273e95f488a.xml#id-0d5f33c2ef434b988ac6f273e95f488a"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-99a3840ad46341a3af4b9c1597f104d1.xml#id-99a3840ad46341a3af4b9c1597f104d1"/>
@@ -2130,4 +2194,23 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-6acb59d5299a47168776a14456b5fc13.xml#id-6acb59d5299a47168776a14456b5fc13"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-22eeff053dec454ca30e977c6d70eab4"
+      targetConnections="id-701e0225a80a40b1b8a028edb439a341">
+    <features
+        name="deriveElementLineColor"
+        value="false"/>
+    <bounds
+        x="380"
+        y="1480"
+        width="141"
+        height="61"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_id-6995ad5b7f454c0e94148e766072716f.xml#id-6995ad5b7f454c0e94148e766072716f"/>
+  </children>
+  <properties
+      key="Object ID"
+      value="03b5f1be-48b8-4077-b31c-94552f540d96"/>
 </archimate:ArchimateDiagramModel>

@@ -1,6 +1,6 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ETL component"
+    name="ETL-component"
     id="id-be474175369e4322b82614e51fe8f788"
     documentation="Technologiecomponent voor het extraheren, transformeren naar een gewenst formaat en laden in een doelopslagplaats gegevens uit verschillende bronnen. Bijvoorbeeld voor data warehousing.">
   <properties
