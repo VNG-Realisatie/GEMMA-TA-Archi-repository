@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beveiligingsservices (copy)"
+    id="id-8d5385e3057142b8a2961b25a73a9f4a"
+    documentation="Groepering van services die de bescherming van netwerken, systemen en gegevens tegen ongeoorloofde toegang, aanvallen en andere bedreigingen bieden.">
+  <properties
+      key="Object ID"
+      value="c5cbf944-8245-449c-8e36-782010bc11c1"/>
+  <properties
+      key="GEMMA type"
+      value="Technologiegroep"/>
+</archimate:TechnologyService>
