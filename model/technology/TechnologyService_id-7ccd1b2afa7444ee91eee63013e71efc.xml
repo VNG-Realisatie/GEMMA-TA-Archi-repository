@@ -1,6 +1,6 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Opslagservices (copy)"
+    name="Opslagservices"
     id="id-7ccd1b2afa7444ee91eee63013e71efc"
     documentation="Groepering van services die opslagruimte en gerelateerde beheerfunctionaliteiten bieden voor het opslaan, beheren en ophalen van data">
   <properties

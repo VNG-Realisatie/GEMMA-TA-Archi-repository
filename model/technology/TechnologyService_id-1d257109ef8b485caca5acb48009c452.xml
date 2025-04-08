@@ -1,6 +1,6 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Identiteit- en toegangsbeheerservices (copy)"
+    name="Identiteit- en toegangsbeheerservices"
     id="id-1d257109ef8b485caca5acb48009c452"
     documentation="Groepering van services die de controle en beveiliging van gebruikersidentiteiten en toegangsrechten binnen een netwerk of systeem regelen">
   <properties

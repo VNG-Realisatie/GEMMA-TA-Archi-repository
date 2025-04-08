@@ -1,6 +1,6 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Netwerkservices (copy)"
+    name="Netwerkservices"
     id="id-76d4b14b26aa4b78b8deea2c75839899"
     documentation="Groepering van services die worden geleverd via een netwerk om de communicatie en gegevensuitwisseling tussen apparaten, applicaties of gebruikers te vergemakkelijken.">
   <properties

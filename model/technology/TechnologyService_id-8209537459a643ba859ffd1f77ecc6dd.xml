@@ -1,6 +1,6 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gegevensuitwisselingsservices (copy)"
+    name="Gegevensuitwisselingsservices"
     id="id-8209537459a643ba859ffd1f77ecc6dd"
     documentation="Groepering van services die het uitwisselen van informatie tussen systemen, applicaties of gebruikers mogelijk maken.">
   <properties
