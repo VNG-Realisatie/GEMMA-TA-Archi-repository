@@ -1,7 +1,7 @@
-<archimate:Grouping
+<archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beveiligingsservices"
-    id="id-99a3840ad46341a3af4b9c1597f104d1"
+    id="id-a56880f7dbea4281af713a2dbcc4c33b"
     documentation="Groepering van services die de bescherming van netwerken, systemen en gegevens tegen ongeoorloofde toegang, aanvallen en andere bedreigingen bieden.">
   <properties
       key="Object ID"
@@ -9,4 +9,4 @@
   <properties
       key="GEMMA type"
       value="Technologiegroep"/>
-</archimate:Grouping>
+</archimate:TechnologyService>

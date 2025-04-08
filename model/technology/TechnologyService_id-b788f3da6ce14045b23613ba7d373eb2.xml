@@ -1,4 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Platformservices"
-    id="id-b788f3da6ce14045b23613ba7d373eb2"/>
+    id="id-b788f3da6ce14045b23613ba7d373eb2"
+    documentation="Platformservices verwijzen naar technologische omgevingen en softwarecomponenten die applicaties ondersteunen en integreren, zoals middleware, API-management en integratieplatformen. Ze zorgen voor consistente werking en communicatie tussen systemen."/>
