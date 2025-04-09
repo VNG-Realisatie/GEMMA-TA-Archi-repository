@@ -579,6 +579,7 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-faf9f4bf46ff4ccd9c24971e1576eabc"
+      targetConnections="id-ab034ab6e5a14d4ba43c118dc1fc2d44"
       textAlignment="1"
       content=" Applicatie en webhosting, en ook zoeken naar platformservices">
     <sourceConnections
@@ -594,6 +595,7 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-841a66ae7f6c484f95365037407dafdb"
+      targetConnections="id-a5a2972690644f2798c85a440e8b2db1"
       textAlignment="1"
       content="Ik wil de technologiecomponent Webserver opsplitsen Webserver en een Applicatieserver.">
     <sourceConnections
@@ -609,6 +611,7 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-bb9349036b634258910034d61a66ee31"
+      targetConnections="id-72d889c0637846ba8fba227773f3de16"
       textAlignment="1"
       content="Database- en bestandopslag niet naast elkaar, databaseopslag is een platformservice">
     <sourceConnections
@@ -624,6 +627,7 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-8dd6f3b6ba5b4fbfb5c3669f83d41dfd"
+      targetConnections="id-85e24cdf12394adaa222db9f3289a549"
       textAlignment="1"
       content="Business Intelligence vind een softwareservice. In plaats van BI-component heeft de GEMMA de Managementinformatiecomponent.&#xD;&#xA;&#xD;&#xA;Wel is BI-component als naam denk ik beter, korter en meer herkenbaar">
     <sourceConnections
@@ -635,5 +639,81 @@
         y="120"
         width="226"
         height="126"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-98e9708c044a42d1af232986f39f3e27"
+      textAlignment="1"
+      content="'Applicatieserver' als system service verdwijnt steeds meer. Dit type functionaliteit wordt geleverd door oa API’s, microservices, containers en cloud-eigen services.&#xD;&#xA;Maar zo zegt ChatGTP: &#xD;&#xA;In de praktijk bij gemeenten:&#xD;&#xA;Steeds meer richting SaaS → geen applicatieserver meer zichtbaar.&#xD;&#xA;Legacy-applicaties → vaak nog wel Tomcat of JBoss on-prem of in private cloud.&#xD;&#xA;Bij migraties → applicatieserver verdwijnt meestal uit beeld.&#xD;&#xA;&#xD;&#xA;Dus voor de GEMMA wel bestaansrecht.">
+    <sourceConnections
+        id="id-a5a2972690644f2798c85a440e8b2db1"
+        source="id-98e9708c044a42d1af232986f39f3e27"
+        target="id-841a66ae7f6c484f95365037407dafdb"/>
+    <bounds
+        x="1584"
+        y="326"
+        width="449"
+        height="155"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-00268cd99977486a9fd89aa17fd212e4"
+      textAlignment="1"
+      content="Bij BI-achtige dingen wordt het nu ook vaker 'platform' genoemd. M.i. toch eerder iets dat neutraal wordt opgeleverd technische voorzieningen, waar je vervolgens zelf mee aan het knutselen gaat. ">
+    <sourceConnections
+        id="id-85e24cdf12394adaa222db9f3289a549"
+        source="id-00268cd99977486a9fd89aa17fd212e4"
+        target="id-8dd6f3b6ba5b4fbfb5c3669f83d41dfd"/>
+    <bounds
+        x="1552"
+        y="120"
+        width="337"
+        height="126"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-5c1e89e37a90497c95f1da974358388f"
+      targetConnections="id-abe7358b56e04252a6199fedf4b8f284"
+      textAlignment="1"
+      content="'platformservices' omvatten toch ook infraservices als je ergens PAAS afneemt? &#xD;&#xA;">
+    <sourceConnections
+        id="id-ab034ab6e5a14d4ba43c118dc1fc2d44"
+        source="id-5c1e89e37a90497c95f1da974358388f"
+        target="id-faf9f4bf46ff4ccd9c24971e1576eabc"/>
+    <bounds
+        x="1584"
+        y="496"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-bc228eca424841aca898ee167bc77f20"
+      textAlignment="1"
+      content="?? Ik zie het verschil niet. &#xD;&#xA;'Platformserivce' zie boven.">
+    <sourceConnections
+        id="id-72d889c0637846ba8fba227773f3de16"
+        source="id-bc228eca424841aca898ee167bc77f20"
+        target="id-bb9349036b634258910034d61a66ee31"/>
+    <bounds
+        x="1576"
+        y="626"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-82b5b325c2704bc188bb2f39c7039e6b"
+      textAlignment="1"
+      content="Heb nog wat gezocht op internet maar de begrippen worden iedere keer anders vertaalt richting services en servicegroepen. &#xD;&#xA;Oftewel: blijft lastig om deze 3 hosting modellen te modelleren met gebruik van de nu in de GEMMA benoemde services (maar sowieso is er giga-diversiteit in namen en soorten services).&#xD;&#xA;https://hazelcast.com/wp-content/uploads/2021/12/infrastructure-as-a-service-iaas.png is het meest gebruikte plaatje, maar bundelen zoals jij voorstelt gebeurt eigenliljk nooit (?)&#xD;&#xA;Ik zou het denk ik houden bij iets als https://agileea.com/2017/04/hosting-and-cloud-software-delivery-modelled-in-archimate/ waar alleen wordt toegelicht wie wat beheert. ">
+    <sourceConnections
+        id="id-abe7358b56e04252a6199fedf4b8f284"
+        source="id-82b5b325c2704bc188bb2f39c7039e6b"
+        target="id-5c1e89e37a90497c95f1da974358388f"/>
+    <bounds
+        x="1904"
+        y="496"
+        width="185"
+        height="280"/>
   </children>
 </archimate:ArchimateDiagramModel>
