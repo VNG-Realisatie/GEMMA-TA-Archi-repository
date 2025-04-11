@@ -453,7 +453,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-efc6316666f54fbeacc1a0793d2b2a8f"
-        targetConnections="id-82ce751422954ac1ae0a9b1293492b42">
+        targetConnections="id-82ce751422954ac1ae0a9b1293492b42 id-3542049d3db84b5a8c99ca9c09074331">
       <bounds
           x="20"
           y="70"
@@ -466,7 +466,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-1b7790a61cea499e8a900ed3fcc5478e"
-        targetConnections="id-047182f047624ec18945ffa45e9e2949">
+        targetConnections="id-047182f047624ec18945ffa45e9e2949 id-311e965c8bad47159b33313584f22d9a">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-ba4ea903d9fa4070b72c0c6d21666a95"
@@ -627,7 +627,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-851b2f8c9f334c8a811dbc8f40271048"
-          targetConnections="id-122a1bae1e3b4df99584c63283593b41"
+          targetConnections="id-122a1bae1e3b4df99584c63283593b41 id-a524003c25fd421abe3db70e10dd046c"
           fontColor="#000000"
           lineColor="#4f4f4f"
           fillColor="#ffffff">
@@ -665,7 +665,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-0ca349bd8dd24941a3a3a0bb76190536"
-          targetConnections="id-9d25300f636447938636589b791b5c0e"
+          targetConnections="id-9d25300f636447938636589b791b5c0e id-54b082685278495bb79fd749f51ea471"
           fontColor="#000000"
           lineColor="#4f4f4f"
           fillColor="#ffffff">
@@ -688,5 +688,65 @@
     <archimateElement
         xsi:type="archimate:Product"
         href="Product_id-381cf8110a1a4196adc16b6e94a612a1.xml#id-381cf8110a1a4196adc16b6e94a612a1"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-faf9f4bf46ff4ccd9c24971e1576eabc"
+      textAlignment="1"
+      content=" Applicatie en webhosting, en ook zoeken naar platformservices">
+    <sourceConnections
+        id="id-54b082685278495bb79fd749f51ea471"
+        source="id-faf9f4bf46ff4ccd9c24971e1576eabc"
+        target="id-0ca349bd8dd24941a3a3a0bb76190536"/>
+    <bounds
+        x="1242"
+        y="675"
+        width="201"
+        height="81"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-841a66ae7f6c484f95365037407dafdb"
+      textAlignment="1"
+      content="Ik wil de technologiecomponent Webserver opsplitsen Webserver en een Applicatieserver.">
+    <sourceConnections
+        id="id-311e965c8bad47159b33313584f22d9a"
+        source="id-841a66ae7f6c484f95365037407dafdb"
+        target="id-1b7790a61cea499e8a900ed3fcc5478e"/>
+    <bounds
+        x="1250"
+        y="542"
+        width="206"
+        height="82"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-bb9349036b634258910034d61a66ee31"
+      textAlignment="1"
+      content="Database- en bestandopslag niet naast elkaar, databaseopslag is een platformservice">
+    <sourceConnections
+        id="id-a524003c25fd421abe3db70e10dd046c"
+        source="id-bb9349036b634258910034d61a66ee31"
+        target="id-851b2f8c9f334c8a811dbc8f40271048"/>
+    <bounds
+        x="1250"
+        y="816"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-8dd6f3b6ba5b4fbfb5c3669f83d41dfd"
+      textAlignment="1"
+      content="Business Intelligence vind een softwareservice. In plaats van BI-component heeft de GEMMA de Managementinformatiecomponent.&#xD;&#xA;&#xD;&#xA;Wel is BI-component als naam denk ik beter, korter en meer herkenbaar">
+    <sourceConnections
+        id="id-3542049d3db84b5a8c99ca9c09074331"
+        source="id-8dd6f3b6ba5b4fbfb5c3669f83d41dfd"
+        target="id-efc6316666f54fbeacc1a0793d2b2a8f"/>
+    <bounds
+        x="1235"
+        y="145"
+        width="226"
+        height="126"/>
   </children>
 </archimate:ArchimateDiagramModel>
