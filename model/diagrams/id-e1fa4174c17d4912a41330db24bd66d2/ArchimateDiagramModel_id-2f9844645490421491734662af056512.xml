@@ -205,9 +205,9 @@
         target="id-31ecd55c11d84b4cb1568bbd31e709c4">
       <bendpoints
           startX="225"
-          startY="99"
+          startY="302"
           endX="-225"
-          endY="-590"/>
+          endY="-83"/>
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_id-841e8f75954e4b14b6af39dcfac6cd77.xml#id-841e8f75954e4b14b6af39dcfac6cd77"/>
@@ -218,17 +218,17 @@
         source="id-6d6c216c81b241dbb35212c00c95f794"
         target="id-657e1ec8e9f449e7902fe34187790632">
       <bendpoints
-          startX="225"
-          startY="-10"
-          endX="-225"
-          endY="-40"/>
+          startX="230"
+          startY="-243"
+          endX="-220"
+          endY="32"/>
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_id-4ffd9f9700b943a9af5df8cc14be1c9e.xml#id-4ffd9f9700b943a9af5df8cc14be1c9e"/>
     </sourceConnections>
     <bounds
         x="10"
-        y="80"
+        y="385"
         width="271"
         height="26"/>
     <archimateElement
@@ -296,17 +296,13 @@
         id="id-4904b45180734224ab3dc100443c341b"
         source="id-ec20564f9e6141a3aca87b477a9d8f9f"
         target="id-657e1ec8e9f449e7902fe34187790632">
-      <bendpoints
-          startX="225"
-          endX="-225"
-          endY="109"/>
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_id-8eb751c4810a4c9d96dfbfff203056e2.xml#id-8eb751c4810a4c9d96dfbfff203056e2"/>
     </sourceConnections>
     <bounds
         x="10"
-        y="220"
+        y="110"
         width="271"
         height="26"/>
     <archimateElement
@@ -2875,4 +2871,7 @@
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-2c8d75097d684cd0903ba31e5f52d28a.xml#id-2c8d75097d684cd0903ba31e5f52d28a"/>
   </children>
+  <properties
+      key="Object ID"
+      value="6424eee7-2651-472b-abf7-c352636c8c13"/>
 </archimate:ArchimateDiagramModel>
