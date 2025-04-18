@@ -6,7 +6,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0cbcb729ebbd4f01bbcb29e98c7cc980"
-      targetConnections="id-eb650a8c790641f2af5647d7b44cafd5 id-e856ab52bb3f4c0c9519496a39e3d8d2 id-8ce046a143f941e09a9cfc57983aa3b5 id-66d89337413b41a98dda9985929690fd">
+      targetConnections="id-eb650a8c790641f2af5647d7b44cafd5 id-8ce046a143f941e09a9cfc57983aa3b5 id-66d89337413b41a98dda9985929690fd id-e856ab52bb3f4c0c9519496a39e3d8d2">
     <features
         name="deriveElementLineColor"
         value="false"/>
@@ -243,15 +243,6 @@
       textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-337464fd1c5a4318a9ba33f4b08d1c3d"
-        source="id-73664b1702b74e358ddf53f5a9844224"
-        target="id-a9550aece8c1422a954bfecc19e04c0c">
-      <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_id-c54afcece63a4f97aa8c2ad4a014bd8e.xml#id-c54afcece63a4f97aa8c2ad4a014bd8e"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-51f1811dfc194eb3bb4ad85355a363b3"
         source="id-73664b1702b74e358ddf53f5a9844224"
         target="id-85f02a5b7c7d4517ad10914f0fc56324">
@@ -261,12 +252,12 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-b0e99345b0254ed2bc3b63fc768db8de"
+        id="id-a3fd71299bee42b9847e5b1e0713c67e"
         source="id-73664b1702b74e358ddf53f5a9844224"
-        target="id-ac5e40b74bc24fca91521e5a6a2f0485">
+        target="id-1a4817691ef543068be3739b092eb09f">
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_id-9fc7794c505641f2b6dd1c84822fa9d1.xml#id-9fc7794c505641f2b6dd1c84822fa9d1"/>
+          href="AggregationRelationship_id-12a435f32ed3414d8bd4c3b093431fd2.xml#id-12a435f32ed3414d8bd4c3b093431fd2"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -279,12 +270,21 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-a3fd71299bee42b9847e5b1e0713c67e"
+        id="id-b0e99345b0254ed2bc3b63fc768db8de"
         source="id-73664b1702b74e358ddf53f5a9844224"
-        target="id-1a4817691ef543068be3739b092eb09f">
+        target="id-ac5e40b74bc24fca91521e5a6a2f0485">
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_id-12a435f32ed3414d8bd4c3b093431fd2.xml#id-12a435f32ed3414d8bd4c3b093431fd2"/>
+          href="AggregationRelationship_id-9fc7794c505641f2b6dd1c84822fa9d1.xml#id-9fc7794c505641f2b6dd1c84822fa9d1"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-337464fd1c5a4318a9ba33f4b08d1c3d"
+        source="id-73664b1702b74e358ddf53f5a9844224"
+        target="id-a9550aece8c1422a954bfecc19e04c0c">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-c54afcece63a4f97aa8c2ad4a014bd8e.xml#id-c54afcece63a4f97aa8c2ad4a014bd8e"/>
     </sourceConnections>
     <bounds
         x="877"
@@ -360,7 +360,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-85f02a5b7c7d4517ad10914f0fc56324"
-        targetConnections="id-7747860a229442d290c754719e7ad6a2 id-51f1811dfc194eb3bb4ad85355a363b3">
+        targetConnections="id-51f1811dfc194eb3bb4ad85355a363b3 id-7747860a229442d290c754719e7ad6a2">
       <features
           name="deriveElementLineColor"
           value="false"/>
@@ -376,7 +376,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-1a4817691ef543068be3739b092eb09f"
-        targetConnections="id-8463d1e2f64d464da522cf9255cbe4ff id-a3fd71299bee42b9847e5b1e0713c67e">
+        targetConnections="id-a3fd71299bee42b9847e5b1e0713c67e id-8463d1e2f64d464da522cf9255cbe4ff">
       <features
           name="deriveElementLineColor"
           value="false"/>
